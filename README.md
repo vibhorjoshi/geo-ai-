@@ -1,1 +1,1 @@
-# geo-ai-
+# geo-ai
