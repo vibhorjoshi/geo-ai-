@@ -123,11 +123,8 @@ $ streamlit run geoai_regularization_app.py
 
 ## 🎥 Demo
 
-<p align="center">
-  <img src="https://zirxrenfuq7hxnsy6pmtrw.streamlit.app/" alt="Streamlit Demo" width="800">
-</p>
+<p align="center"> <a href="https://zirxrenfuq7hxnsy6pmtrw.streamlit.app/" target="_blank"> <img src="https://raw.githubusercontent.com/yourusername/geoai-building-regularization/main/docs/demo-thumbnail.png" alt="Click to open Streamlit demo" width="800" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"> </a> </p>
 
----
 
 ## 📈 Results
 
