@@ -1,0 +1,12 @@
+# requirements.txt
+
+streamlit==1.37.0
+geoai-py
+leafmap
+geopandas
+pandas
+folium
+streamlit-folium
+rasterio
+numpy
+torch
