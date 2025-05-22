@@ -15,10 +15,10 @@ A GeoAI-powered project for cleaning, simplifying, and orthogonalizing building 
 * [Demo](#demo)
 * [Results](#results)
 * [Regularization Techniques](#regularization-techniques)
-* [Contributing](#contributing)
+* [Contributing](#contributing
+---)
 * [License](#license)
 
----
 
 ## 🚀 Project Overview
 
@@ -74,6 +74,10 @@ flowchart TD
 ```
 
 > Optional deep learning module supports satellite image input.
+![Screenshot 2025-05-14 195637](https://github.com/user-attachments/assets/a0971782-1c3d-4987-b966-83e36f3e7c93)
+
+>regularization
+![Screenshot 2025-05-14 194429](https://github.com/user-attachments/assets/1ef1b1a4-103f-4e05-b78d-c4f42b16bb69)
 
 ---
 
@@ -120,7 +124,7 @@ $ streamlit run geoai_regularization_app.py
 ## 🎥 Demo
 
 <p align="center">
-  <img src="docs/demo.gif" alt="Streamlit Demo" width="800">
+  <img src="https://zirxrenfuq7hxnsy6pmtrw.streamlit.app/" alt="Streamlit Demo" width="800">
 </p>
 
 ---
